@@ -3,11 +3,11 @@
   <title>Welcome To Our Home!</title>
   
   
-  <link href="https://ducker561.github.io/atom.xml" rel="self"/>
+  <link href="https://guipink.fun/atom.xml" rel="self"/>
   
-  <link href="https://ducker561.github.io/"/>
-  <updated>2022-01-18T04:59:58.635Z</updated>
-  <id>https://ducker561.github.io/</id>
+  <link href="https://guipink.fun/"/>
+  <updated>2022-01-18T05:18:35.845Z</updated>
+  <id>https://guipink.fun/</id>
   
   <author>
     <name>Ducker561</name>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>startup</title>
+    <link href="https://guipink.fun/2022/01/18/startup/"/>
+    <id>https://guipink.fun/2022/01/18/startup/</id>
+    <published>2022-01-18T05:07:16.000Z</published>
+    <updated>2022-01-18T05:18:35.845Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p>创建好我们的家了！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h1&gt;&lt;p&gt;创建好我们的家了！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="学习" scheme="https://guipink.fun/categories/study/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://ducker561.github.io/2022/01/18/hello-world/"/>
-    <id>https://ducker561.github.io/2022/01/18/hello-world/</id>
+    <link href="https://guipink.fun/2022/01/18/hello-world/"/>
+    <id>https://guipink.fun/2022/01/18/hello-world/</id>
     <published>2022-01-17T17:31:03.000Z</published>
     <updated>2022-01-18T04:59:58.635Z</updated>
     
@@ -33,7 +56,7 @@
     
     
     
-    <category term="学习" scheme="https://ducker561.github.io/categories/study/"/>
+    <category term="学习" scheme="https://guipink.fun/categories/study/"/>
     
     
   </entry>

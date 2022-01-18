@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ducker561.github.io/2022/01/18/hello-world/</loc>
+    <loc>https://guipink.fun/2022/01/18/startup/</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ducker561.github.io/tags/index.html</loc>
+    <loc>https://guipink.fun/2022/01/18/hello-world/</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://ducker561.github.io/categories/index.html</loc>
+    <loc>https://guipink.fun/tags/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -29,7 +29,16 @@
   </url>
   
   <url>
-    <loc>https://ducker561.github.io/link/index.html</loc>
+    <loc>https://guipink.fun/categories/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guipink.fun/link/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -39,7 +48,7 @@
   
 
   <url>
-    <loc>https://ducker561.github.io/</loc>
+    <loc>https://guipink.fun/</loc>
     <lastmod>2022-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -49,7 +58,7 @@
 
   
   <url>
-    <loc>https://ducker561.github.io/categories/study/</loc>
+    <loc>https://guipink.fun/categories/study/</loc>
     <lastmod>2022-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
